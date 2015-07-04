@@ -1,0 +1,14 @@
+# backup and cache files
+*.*~
+
+# build output dir
+target/
+
+# IDEs matter
+.settings/
+.project
+.classpath
+
+.idea/
+*.iml
+
